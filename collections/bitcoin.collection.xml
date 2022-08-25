@@ -1,129 +1,34 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Institute for Humane Studies">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col24321</md:content-id>
-  <md:title>Bitcoin</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>9add9912-c6a7-49a5-8c75-cca4187fdb57</md:uuid>
-<md:slug>bitcoin</md:slug>
-</metadata>
-
+    <md:content-id>col24321</md:content-id>
+    <md:title>Bitcoin</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>9add9912-c6a7-49a5-8c75-cca4187fdb57</md:uuid>
+    <md:slug>bitcoin</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m66115"/>
-        
-      
-    
-    
-      <col:module document="m66143"/>
-        
-      
-    
-    
-      <col:module document="m66144"/>
-        
-      
-    
-    
-      <col:module document="m66114"/>
-        
-      
-    
-    
-      <col:module document="m66134"/>
-        
-      
-    
-    
-      <col:module document="m66136"/>
-        
-      
-    
-    
-      <col:module document="m66150"/>
-        
-      
-    
-    
-      <col:module document="m66149"/>
-        
-      
-    
-    
-      <col:module document="m66111"/>
-        
-      
-    
-    
-      <col:module document="m66147"/>
-        
-      
-    
-    
-      <col:module document="m66142"/>
-        
-      
-    
-    
-      <col:module document="m66146"/>
-        
-      
-    
-    
-      <col:module document="m66110"/>
-        
-      
-    
-    
-      <col:module document="m66118"/>
-        
-      
-    
-    
-      <col:module document="m66116"/>
-        
-      
-    
-    
-      <col:module document="m66138"/>
-        
-      
-    
-    
-      <col:module document="m66135"/>
-        
-      
-    
-    
-      <col:module document="m66137"/>
-        
-      
-    
-    
-      <col:module document="m66107"/>
-        
-      
-    
-    
-      <col:module document="m66141"/>
-        
-      
-    
-    
-      <col:module document="m66112"/>
-        
-      
-    
+    <col:module document="m66115"/>
+    <col:module document="m66143"/>
+    <col:module document="m66144"/>
+    <col:module document="m66114"/>
+    <col:module document="m66134"/>
+    <col:module document="m66136"/>
+    <col:module document="m66150"/>
+    <col:module document="m66149"/>
+    <col:module document="m66111"/>
+    <col:module document="m66147"/>
+    <col:module document="m66142"/>
+    <col:module document="m66146"/>
+    <col:module document="m66110"/>
+    <col:module document="m66118"/>
+    <col:module document="m66116"/>
+    <col:module document="m66138"/>
+    <col:module document="m66135"/>
+    <col:module document="m66137"/>
+    <col:module document="m66107"/>
+    <col:module document="m66141"/>
+    <col:module document="m66112"/>
   </col:content>
 </col:collection>
